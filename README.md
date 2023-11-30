@@ -1,1 +1,2 @@
-Respositorio teste Ramom
+Site Criado com html e Css para resolucão de atividade do curso de Tecnologoa da Escola DNC
+Link da planilha: https://docs.google.com/spreadsheets/d/1mQtBteeGdhhbKWiH9lNk-puK7gdIhRJBkLyFfRZ6i6Q/edit?usp=sharing
